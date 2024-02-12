@@ -12,6 +12,7 @@ However, there are several types of datasets that could be adapted :
 
 [Research paper 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586257/) :A Cognitive Behavioral Therapy Chatbot (Otis) for Health Anxiety Management: Mixed Methods Pilot Study
 
+[Challenges of mental health bot](https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health)
 https://www.fingerprintforsuccess.com/blog/mental-health-chatbot#toc-section-1
 
 Highlights ~ Paper 1:
