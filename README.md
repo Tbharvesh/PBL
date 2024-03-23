@@ -15,6 +15,9 @@ However, there are several types of datasets that could be adapted :
 [Challenges of mental health bot](https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health)
 https://www.fingerprintforsuccess.com/blog/mental-health-chatbot#toc-section-1
 
+[Dataset1](https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data)
+[Dataset2](https://www.kaggle.com/code/stpeteishii/mental-health-conv-causallm-roberta/input)
+
 Highlights ~ Paper 1:
 Although iCBT has been adapted to suit several digital modes of delivery to treat health anxiety, to the best of our knowledge, there has not yet been a chatbot designed to help people manage health anxiety using CBT.
 .A chatbot may provide an initial management intervention that reduces the burden of help-seeking individuals who may otherwise overutilize health services. Moreover, it may encourage interaction for avoidant individuals who would otherwise be reluctant to seek care, due to the presence of clinicians and anxiety-provoking settings (eg, hospitals and clinics)
