@@ -1,26 +1,44 @@
-# PBL
-Project based learning - Creating a CBT chatbot in python
-## Datasets for CBT:
-Major concerns are getting these dataset may lead to privacy breach of individuals ,so these are not publically available
-However, there are several types of datasets that could be adapted :
-1. Publicly Available Therapy Chat Logs :onversations between therapists and patients, anonymized to protect privacy. However, these are rare and heavily regulated due to confidentiality.
-2. Self-Help and CBT Exercise Texts: Texts from CBT workbooks, self-help books, or online resources that explain CBT concepts, exercises, and example dialogues.
-3. FAQs and Therapy Session Transcripts: Frequently Asked Questions (FAQs) or anonymized transcripts from therapy sessions (with consent) can provide insights into common concerns and therapeutic responses.
+# Project Based Learning - Creating a CBT Chatbot in Python
 
-[Reaserach paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586257/). :A Mental Health Chatbot with Cognitive Skills for Personalised Behavioural Activation and Remote Health Monitoring
-[Reaserch paper 2](https://pubmed.ncbi.nlm.nih.gov/32446158/) :Efficacy of mobile app-based interactive cognitive behavioral therapy using a chatbot for panic disorder
+![Python](https://img.shields.io/badge/Language-Python-green)
+![Chatbot](https://img.shields.io/badge/Project-CBT_Chatbot-orange)
 
-[Research paper 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586257/) :A Cognitive Behavioral Therapy Chatbot (Otis) for Health Anxiety Management: Mixed Methods Pilot Study
+This repository serves as a project-based learning resource for creating a Cognitive Behavioral Therapy (CBT) chatbot in Python. The chatbot aims to provide personalized behavioural activation and remote health monitoring, inspired by research papers and datasets related to mental health and CBT.
 
-[Challenges of mental health bot](https://www.npr.org/sections/health-shots/2023/01/19/1147081115/therapy-by-chatbot-the-promise-and-challenges-in-using-ai-for-mental-health)
-https://www.fingerprintforsuccess.com/blog/mental-health-chatbot#toc-section-1
+## Introduction
 
-[Dataset1](https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data)
-[Dataset2](https://www.kaggle.com/code/stpeteishii/mental-health-conv-causallm-roberta/input)
+Project-based learning (PBL) is an educational approach that encourages students to learn by actively engaging in real-world projects. In this project, we'll delve into the development of a CBT chatbot using Python, drawing insights from research papers, available datasets, and challenges associated with mental health bots.
 
-Highlights ~ Paper 1:
-Although iCBT has been adapted to suit several digital modes of delivery to treat health anxiety, to the best of our knowledge, there has not yet been a chatbot designed to help people manage health anxiety using CBT.
-.A chatbot may provide an initial management intervention that reduces the burden of help-seeking individuals who may otherwise overutilize health services. Moreover, it may encourage interaction for avoidant individuals who would otherwise be reluctant to seek care, due to the presence of clinicians and anxiety-provoking settings (eg, hospitals and clinics)
-To the best of our knowledge, no study has shown significantly improved anxiety compared with a control group using a CBT-based chatbot
-he study found that, although there was no significant improvement in health anxiety, participants reported benefiting from the intervention, which is further evidenced by improvements in general anxiety, personal well-being, and quality of life. 
-Future studies in the area should continue to investigate the “therapeutic relationship” between people and technology to aid the development of mHealth, thereby facilitating the democratization of mental health services.
+### Datasets for CBT
+
+Due to privacy concerns, datasets for CBT chatbots are not publicly available. However, various sources can provide valuable insights and data for adapting the chatbot:
+
+- **Publicly Available Therapy Chat Logs**: Anonymized conversations between therapists and patients.
+- **Self-Help and CBT Exercise Texts**: Texts from CBT workbooks, self-help books, or online resources.
+- **FAQs and Therapy Session Transcripts**: Frequently Asked Questions or anonymized therapy session transcripts.
+
+### Research Papers
+
+We draw inspiration from research papers exploring the efficacy and design of CBT-based chatbots:
+
+- **[Paper 1](Link_To_Paper1)**: Discusses the development of a CBT chatbot for health anxiety management.
+- **[Paper 2](Link_To_Paper2)**: Explores the efficacy of mobile app-based interactive CBT using a chatbot for panic disorder.
+- **[Paper 3](Link_To_Paper3)**: Presents a pilot study on a CBT chatbot for health anxiety management.
+
+### Challenges of Mental Health Bots
+
+We acknowledge the challenges associated with developing mental health chatbots, such as maintaining user privacy, ensuring effective therapy delivery, and fostering a therapeutic relationship between users and technology.
+
+## Highlights
+
+- **Paper 1**: Introduces the concept of a CBT chatbot for health anxiety management, highlighting its potential benefits and challenges.
+- **Paper 2**: Investigates the effectiveness of mobile app-based interactive CBT using a chatbot for panic disorder.
+- **Paper 3**: Presents a mixed-methods pilot study on a CBT chatbot for health anxiety management, emphasizing the importance of user interaction and technology-mediated therapy.
+
+## Contributing
+
+Contributions to this repository are welcome! Whether you're interested in improving the chatbot's functionality, exploring new research papers, or sharing insights on mental health and technology, your contributions are valuable.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
