@@ -16,7 +16,7 @@ Due to privacy concerns, datasets for CBT chatbots are not publicly available. H
 - **Publicly Available Therapy Chat Logs**: Anonymized conversations between therapists and patients.
 - **Self-Help and CBT Exercise Texts**: Texts from CBT workbooks, self-help books, or online resources.
 - **FAQs and Therapy Session Transcripts**: Frequently Asked Questions or anonymized therapy session transcripts.
-
+ **[Dataset](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations)**
 ### Research Papers
 
 We draw inspiration from research papers exploring the efficacy and design of CBT-based chatbots:
