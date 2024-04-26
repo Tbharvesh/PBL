@@ -23,7 +23,7 @@ We draw inspiration from research papers exploring the efficacy and design of CB
 
 - **[Paper 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586257/)**: Discusses the development of a CBT chatbot for health anxiety management.
 - **[Paper 2](https://pubmed.ncbi.nlm.nih.gov/32446158/)**: Explores the efficacy of mobile app-based interactive CBT using a chatbot for panic disorder.
-- **[Paper 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9586257/)**: Presents a pilot study on a CBT chatbot for health anxiety management.
+- **[Paper 3](https://braininformatics.springeropen.com/articles/10.1186/s40708-023-00196-6)**: Presents a pilot study on a CBT chatbot for health anxiety management.
 
 ### Challenges of Mental Health Bots
 
