@@ -1,0 +1,83 @@
+Training phrases for Dialogflow CX
+Sure, here are some training phrases and intents for a cognitive behavioral therapy (CBT) chatbot:
+
+**Intent: Greeting**
+- Training phrases:
+  - Hello
+  - Hi there
+  - Hey
+  - Good morning
+  - Good afternoon
+  - Good evening
+
+**Intent: Introduction**
+- Training phrases:
+  - What can you help me with?
+  - How can you assist me?
+  - What do you do?
+  - Tell me about yourself
+  - What is this chatbot for?
+  - What can I do here?
+
+**Intent: Emotional Support**
+- Training phrases:
+  - I'm feeling anxious
+  - I'm feeling sad
+  - I'm feeling stressed
+  - I'm feeling overwhelmed
+  - I'm feeling angry
+  - I'm feeling lonely
+  - I'm feeling frustrated
+
+**Intent: Assessment**
+- Training phrases:
+  - How are you feeling right now?
+  - On a scale of 1 to 10, how anxious are you feeling?
+  - How would you rate your mood from 1 to 10?
+  - How stressed do you feel right now?
+
+**Intent: Coping Strategies**
+- Training phrases:
+  - What can I do when I feel anxious?
+  - How can I cope with stress?
+  - Can you suggest relaxation techniques?
+  - What are some ways to manage my anger?
+  - How can I deal with negative thoughts?
+
+**Intent: Challenge Negative Thoughts**
+- Training phrases:
+  - I'm having negative thoughts
+  - How can I challenge my negative thinking?
+  - I'm thinking irrationally
+  - Help me with my negative thoughts
+
+**Intent: Gratitude Practice**
+- Training phrases:
+  - How can I practice gratitude?
+  - What are some gratitude exercises?
+  - Can you help me be more positive?
+  - How can I focus on the positives?
+
+**Intent: Mindfulness Exercises**
+- Training phrases:
+  - Teach me a mindfulness exercise
+  - Can you guide me through a mindfulness practice?
+  - How do I practice mindfulness?
+  - I want to learn mindfulness
+
+**Intent: Goal Setting**
+- Training phrases:
+  - How do I set goals?
+  - Can you help me set achievable goals?
+  - I need help setting goals
+  - How can I stay motivated?
+
+**Intent: Ending the Conversation**
+- Training phrases:
+  - Goodbye
+  - Bye
+  - See you later
+  - Talk to you soon
+  - I have to go now
+
+These are just a few examples to get you started. You can expand on these intents and add more as you see fit for your chatbot's functionality and purpose.
